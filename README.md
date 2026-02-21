@@ -67,29 +67,30 @@ HTML CSS JS
 
 
 
-🎮 Mini-Game Interativo: Mario Adventure
+🎮 Mini-Game Interativo: Mario Run
 
-Que tal jogar um pouco? Pressione ESPAÇO para pular, colete moedas e desvie dos inimigos!
+Confira a animação do Mario correndo e coletando moedas! Sem cliques necessários, apenas aproveite a diversão:
 
 <div align="center">
-<a href="https://coderethink.github.io/mario-game/" target="_blank">
-    <img src="https://img.shields.io/badge/🎮%20Jogar%20Mario%20Game-Click%20Aqui-FF0000?style=for-the-badge&logo=nintendo&logoColor=white" alt="Play Mario Game" />
-  </a>
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663229059960/fcgiyLuDVhRfVtBX.svg" alt="Mario Game Animation" width="100%" />
 </div>
 
-Como funciona:
+O que você vê:
 
 •
-🎯 Colete as moedas douradas para aumentar sua pontuação
+🏃 Mario correndo infinitamente pela tela
 
 •
-⚠️ Evite os Goombas (inimigos marrons )
+🪙 Moedas girando esperando serem coletadas
 
 •
-⌨️ Use a barra de espaço para pular
+👾 Goomba caminhando como inimigo
 
 •
-🏆 Tente bater seu recorde!
+⭐ Animação contínua e suave
+
+•
+🎨 Visual estilo retro com cores vibrantes
 
 
 
