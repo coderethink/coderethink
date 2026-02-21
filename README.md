@@ -19,12 +19,6 @@ Sou um desenvolvedor em busca de excelência, focado em dominar o ecossistema Fr
 •
 💡 Filosofia: "O código não é apenas funcionalidade, é arte."
 
-•
-📚 Atualmente: Aprofundando conhecimentos em JavaScript Avançado e Frameworks Modernos.
-
-•
-🎮 Hobby: Criando mini-games interativos com HTML, CSS e JavaScript.
-
 
 
 
@@ -93,7 +87,7 @@ HTML CSS JS
 Acredito que um bom desenvolvedor não apenas escreve código que funciona, mas cria experiências que inspiram.
 
 
-![Footer Futurista](./github_footer_fixed.svg)
+![Footer Futurista](./github_footer_ultra_compatible.svg)
 
 
 📚 Aprendizado Contínuo
