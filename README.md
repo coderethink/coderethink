@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=50&animation=fadeIn&fontAlignY=35" width="50%"/>
   
   <h1>Olá, eu sou o Paulo Alves! 👋</h1>
-  <h3>Desenvolvedor Frontend | HTML | CSS | JavaScript</h3>
+  <h3>Desenvolvedor De Software | HTML | CSS | JavaScript</h3>
   
   <p>
     <em>Apaixonado por criar soluções inovadoras e experiências web interativas.</em>
