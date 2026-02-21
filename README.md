@@ -87,7 +87,7 @@ HTML CSS JS
 Acredito que um bom desenvolvedor não apenas escreve código que funciona, mas cria experiências que inspiram.
 
 
-![Footer Futurista](./github_footer_ultra_compatible.svg)
+![Footer Animado](./footer.svg)
 
 
 📚 Aprendizado Contínuo
