@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=50&animation=fadeIn&fontAlignY=35" width="50%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=time&height=300&section=header&text=Hello%20World!&fontSize=50&animation=fadeIn&fontAlignY=35" width="50%"/>
   
   <h1>Olá, eu sou o Paulo Alves! 👋</h1>
   <h3>Desenvolvedor De Software | HTML | CSS | JavaScript</h3>
