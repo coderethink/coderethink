@@ -63,12 +63,5 @@
 
 ---
 
-### 🐍 Animação da Cobrinha (Opcional)
 
-Para ativar a cobrinha (Snake), você precisa de um arquivo especial. Se quiser ativar, clique [aqui para ver o tutorial da digitalinnovation](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_pt-br.md#snake-game), ou simplesmente delete essa parte se não quiser.
-
-```markdown
-<div align="center">
-  <img src="https://github.com/coderethink/coderethink/blob/output/github-contribution-grid-snake.svg" />
-</div>
 
