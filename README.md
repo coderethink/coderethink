@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=300&section=header&text=coderethink&fontSize=90&animation=fadeIn&fontColor=0D1117&desc=Desenvolvedor%20de%20Software%20|%20HTML%20|%20CSS%20|%20JavaScript&descAlignY=62&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=300&section=header&text=Paulo%20Alves&fontSize=90&animation=fadeIn&fontColor=0D1117&desc=Desenvolvedor%20de%20Software%20|%20HTML%20|%20CSS%20|%20JavaScript&descAlignY=62&descAlign=50)
 
 </div>
 
