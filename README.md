@@ -43,5 +43,5 @@
 ---
 
 <div align="center">
-  <sub><b>Obrigado pela visita! 🚀</b></sub>
+  <sub><b fontSize=20>Obrigado pela visita! 🚀</b></sub>
 </div>
