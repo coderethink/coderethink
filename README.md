@@ -1,10 +1,10 @@
-<p align="center">Olá, eu sou o Paulo Alves! 👋</p>
+Olá, eu sou o Paulo Alves! 👋
 
-<p align="center">
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software+em+Ascens%C3%A3o;Apaixonado+por+HTML%2C+CSS+e+JS;Criando+experi%C3%AAncias+web+incr%C3%ADveis" alt="Typing SVG" />
-</p> <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=120&section=header&text=Bem-vindo%20ao%20meu%20perfil&fontSize=30&animation=fadeIn&fontColor=FFFFFF" />
-</p>
+</div> <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=120&section=header&text=Bem-vindo%20ao%20meu%20perfil&fontSize=30&animation=fadeIn&fontColor=FFFFFF" alt="Header" />
+</div>
 
 
 
@@ -30,21 +30,19 @@ Sou um desenvolvedor em busca de excelência, focado em dominar o ecossistema Fr
 
 🛠️ Minhas Stacks (Animadas )
 
-<p align="center">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,vscode,git,github,npm,figma&theme=dark" />
-  </a>
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,vscode,git,github,npm,figma&theme=dark" alt="Tech Stack" />
+</div>
 
 
 
 
 📊 Estatísticas do GitHub
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=coderethink&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderethink&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=coderethink&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderethink&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF" alt="Top Langs" width="48%" />
+</div>
 
 
 
@@ -73,11 +71,11 @@ HTML CSS JS
 
 Que tal jogar um pouco? Pressione ESPAÇO para pular, colete moedas e desvie dos inimigos!
 
-<p align="center">
+<div align="center">
 <a href="https://coderethink.github.io/mario-game/" target="_blank">
     <img src="https://img.shields.io/badge/🎮%20Jogar%20Mario%20Game-Click%20Aqui-FF0000?style=for-the-badge&logo=nintendo&logoColor=white" alt="Play Mario Game" />
   </a>
-</p>
+</div>
 
 Como funciona:
 
@@ -98,7 +96,7 @@ Como funciona:
 
 🌐 Conecte-se Comigo
 
-<p align="center">
+<div align="center">
 <a href="https://github.com/coderethink" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -108,7 +106,7 @@ Como funciona:
   <a href="mailto:seu-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
 
 
 
@@ -176,12 +174,12 @@ Sou um entusiasta de código aberto e acredito no poder da colaboração. Se voc
 
 
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer" />
-</p> <p align="center">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer" alt="Footer" />
+</div> <div align="center">
   <strong>Desenvolvido com ❤️ por Paulo Alves | coderethink</strong>
     
 
   <em>Sempre aprendendo, sempre criando, sempre evoluindo.</em>
-</p>
+</div>
 
