@@ -8,10 +8,10 @@
     <em>Apaixonado por criar soluções inovadoras e experiências web interativas.</em>
   </p>
 
-  <a href="https://linkedin.com/in/paulo-alves-dev" target="_blank">
+  <a href="https://linkedin.com/in/paulo-calves" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:coderethink@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
