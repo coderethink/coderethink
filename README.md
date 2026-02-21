@@ -28,10 +28,9 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderethink&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderethink&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
-</div>
+<img src="https://github-readme-stats-nine-xi-23.vercel.app/api?username=coderethink&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+
+<img src="https://github-readme-stats-nine-xi-23.vercel.app/api/top-langs/?username=coderethink&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
 
 ---
 
