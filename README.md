@@ -67,33 +67,6 @@ HTML CSS JS
 
 
 
-🎮 Mini-Game Interativo: Mario Run
-
-Confira a animação do Mario correndo e coletando moedas! Sem cliques necessários, apenas aproveite a diversão:
-
-<div align="center">
-<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663229059960/fcgiyLuDVhRfVtBX.svg" alt="Mario Game Animation" width="100%" />
-</div>
-
-O que você vê:
-
-•
-🏃 Mario correndo infinitamente pela tela
-
-•
-🪙 Moedas girando esperando serem coletadas
-
-•
-👾 Goomba caminhando como inimigo
-
-•
-⭐ Animação contínua e suave
-
-•
-🎨 Visual estilo retro com cores vibrantes
-
-
-
 
 🌐 Conecte-se Comigo
 
