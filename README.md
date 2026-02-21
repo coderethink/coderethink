@@ -43,5 +43,7 @@
 ---
 
 <div align="center">
-  <sub><b fontSize=20>Obrigado pela visita! 🚀</b></sub>
+  <br>
+  <h2 style="font-size: 28px; color: #58a6ff;">Obrigado pela visita! 🚀</h2>
+  <p style="font-size: 16px; color: #8b949e;">⭐️ Deixa uma estrela se gostou do perfil</p>
 </div>
