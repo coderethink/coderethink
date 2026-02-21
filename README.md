@@ -90,60 +90,15 @@ HTML CSS JS
 
 "O código não é apenas funcionalidade, é arte. Cada linha deve contar uma história de precisão, criatividade e propósito."
 
-Acredito que um bom desenvolvedor não apenas escreve código que funciona, mas cria experiências que inspiram. Meu foco é em:
-
-•
-✨ Excelência Visual: Interfaces que capturam a atenção
-
-•
-⚡ Performance: Código otimizado e eficiente
-
-•
-🎯 Usabilidade: Experiências intuitivas e acessíveis
-
-•
-🔧 Manutenibilidade: Código limpo e bem documentado
+Acredito que um bom desenvolvedor não apenas escreve código que funciona, mas cria experiências que inspiram.
 
 
+![Footer Futurista](./github_footer_fixed.svg)
 
 
 📚 Aprendizado Contínuo
 
-Estou constantemente explorando novas tecnologias e técnicas:
-
-•
-🎨 Animações CSS avançadas e SVG
-
-•
-🎮 Desenvolvimento de mini-games com JavaScript
-
-•
-📱 Responsividade e Mobile-First Design
-
-•
-🌐 Conceitos de Web Performance
-
-•
-🔐 Boas práticas de segurança web
-
-
-
-
-🎁 Contribuições & Comunidade
-
-Sou um entusiasta de código aberto e acredito no poder da colaboração. Se você encontrar algo interessante em meus repositórios, sinta-se livre para:
-
-•
-⭐ Deixar uma estrela
-
-•
-🔀 Fazer um fork
-
-•
-💬 Abrir uma issue
-
-•
-🤝 Contribuir com pull requests
+Estou constantemente explorando novas tecnologias e técnicas.
 
 
 
